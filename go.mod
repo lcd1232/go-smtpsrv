@@ -1,4 +1,4 @@
-module github.com/lcd1232/go-smtpsrv
+module github.com/lcd1232/go-smtpsrv/v2
 
 require (
 	github.com/miekg/dns v1.0.14 // indirect
