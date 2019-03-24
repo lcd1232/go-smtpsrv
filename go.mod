@@ -1,4 +1,4 @@
-module github.com/alash3al/go-smtpsrv
+module github.com/lcd1232/go-smtpsrv
 
 require (
 	github.com/miekg/dns v1.0.14 // indirect
